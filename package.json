@@ -1,0 +1,22 @@
+{
+  "name": "performanceradiobackend",
+  "version": "0.9.0",
+  "description": "primer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherhomen/performanceradiobackend.git"
+  },
+  "author": "chrishomen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherhomen/performanceradiobackend/issues"
+  },
+  "homepage": "https://github.com/christopherhomen/performanceradiobackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
